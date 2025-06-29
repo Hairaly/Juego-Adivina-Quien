@@ -36,6 +36,7 @@ Juego-Adivina-Quien
 2. Abre el archivo `.sln` en Visual Studio.
 3. Presiona **F5** o haz clic en **Iniciar** para compilar y ejecutar.
 
+
 ## 🧠 Lógica del juego 
 
     Public Class Form1
@@ -172,9 +173,10 @@ Juego-Adivina-Quien
         IniciarJuego()
     End Sub
     End Class
-```
+
 
 ## 📸 Capturas de pantalla
-![Captura de pantalla 2025-06-28 225809](https://github.com/user-attachments/assets/e5ade118-7e0b-408c-ba81-0c352ced63f5)
-![Captura de pantalla 2025-06-28 225849](https://github.com/user-attachments/assets/2dcf2320-e598-44c6-be2b-daaca04b2e4d)
+![image](https://github.com/user-attachments/assets/d354bc23-7dbc-44de-ab5c-c08d798f22c8)
+
+![image](https://github.com/user-attachments/assets/176a503d-cda2-46d3-b2cb-9b7ef7dac189)
 
