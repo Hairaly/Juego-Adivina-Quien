@@ -1,5 +1,7 @@
 # Juego-Adivina-Quien
-Este es un proyecto de juego basico de escritorio estilo “Adivina Quién” desarrollado en **Visual Basic** usando **Visual Studio**. El objetivo del juego es descubrir qué personaje ha sido seleccionado al azar por el usuario, haciendo que la computadora haga preguntas basadas las características de tu personaje seleccionado.
+Este es un proyecto básico de juego de escritorio inspirado en el clásico “Adivina Quién”, desarrollado en Visual Basic utilizando Visual Studio. Está diseñado como una introducción a la programación gráfica y lógica en aplicaciones de escritorio.
+
+En este juego, el jugador selecciona un personaje secreto entre varios disponibles, cada uno con características únicas como color de cabello, uso de gafas o presencia de pecas. A lo largo de la partida, la computadora realiza preguntas estratégicas para deducir qué personaje ha sido elegido, descartando aquellos que no coinciden con las respuestas dadas.
 
 ---
 
@@ -31,20 +33,15 @@ Juego-Adivina-Quien
 
 1. Clona el repositorio:
    
-   ```
+```bash 
  git clone https://github.com/Hairaly/Juego-Adivina-Quien.git
-   ```
-
+```
 2. Abre el archivo `.sln` en Visual Studio.
 3. Presiona **F5** o haz clic en **Iniciar** para compilar y ejecutar.
 
 
-
-```
-
 ## 🧠 Lógica del juego
-
-Ir a Juego_Adivina_Quien.vb para ver mas.
+Ir a **`Juego_Adivina_Quien.vb`** para ver el codigo.
 
 
 ## 📸 Capturas de pantalla
