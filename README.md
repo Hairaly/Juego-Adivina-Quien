@@ -1,5 +1,5 @@
-# Juego-Adivina-Quien
-Este es un proyecto básico de juego de escritorio inspirado en el clásico “Adivina Quién”, desarrollado en Visual Basic utilizando Visual Studio. Está diseñado como una introducción a la programación gráfica y lógica en aplicaciones de escritorio.
+# Juego ¿Adivina Quién?
+Este es un proyecto básico de juego de escritorio inspirado en el clásico “¿Adivina Quién?”, desarrollado en Visual Basic utilizando Visual Studio. Está diseñado como una introducción a la programación gráfica y lógica en aplicaciones de escritorio.
 
 En este juego, el jugador selecciona un personaje secreto entre varios disponibles, cada uno con características únicas como color de cabello, uso de gafas o presencia de pecas. A lo largo de la partida, la computadora realiza preguntas estratégicas para deducir qué personaje ha sido elegido, descartando aquellos que no coinciden con las respuestas dadas.
 
