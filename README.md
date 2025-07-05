@@ -21,7 +21,7 @@ En este juego, el jugador selecciona un personaje secreto entre varios disponibl
 - Windows 10/11
 
 ---
-## 📁 Estructura del proyecto
+## 📁 Estructura del proyecto  
 
 ```
 Juego-Adivina-Quien
